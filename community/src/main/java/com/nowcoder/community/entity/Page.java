@@ -19,7 +19,10 @@ public class Page {
     }
 
     public void setCurrent(int current) {
-        this.current = current;
+        if (current >= 1) {
+            this.current = current;
+        }
+
     }
 
     public int getLimit() {
@@ -27,7 +30,9 @@ public class Page {
     }
 
     public void setLimit(int limit) {
-        this.limit = limit;
+        if (limit >= 1 && limit <= 100) {
+            this.limit = limit;
+        }
     }
 
     public int getRows() {
@@ -35,7 +40,9 @@ public class Page {
     }
 
     public void setRows(int rows) {
-        this.rows = rows;
+        if (rows >= 0) {
+            this.rows = rows;
+        }
     }
 
     public String getPath() {
