@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac6a2196-7ba9-4c21-8ac0-13d0ef546dab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="HTML File" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\software\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jrt://C:/software/Java/jdk-12.0.1!/jdk.javadoc/jdk/javadoc/internal/doclets/formats/html/resources/jquery/external/jquery/jquery.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\software\apache-maven-3.6.1\mvn_resp" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../software/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\software\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2S6suWB4IiQnz9YMMI7t3VihwPX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowCommit.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/community/src/test/java/com/nowcoder/community" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.nowcoder.community.util" />
+      <recent name="com.nowcoder.community.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\project\community\community\src\test\java\com\nowcoder\community" />
+      <recent name="C:\workspace\project\community\community\src\main\resources\templates\site" />
+      <recent name="C:\workspace\project\community\community\src\main\resources\templates" />
+      <recent name="C:\workspace\project\community\community\src\main\resources\mapper" />
+      <recent name="C:\workspace\project\community\community\src\main\resources\static\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\project\community\community\src\main\resources\templates" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nowcoder.community.aspect" />
+      <recent name="com.nowcoder.community.entity" />
+      <recent name="com.nowcoder.community.service" />
+      <recent name="com.nowcoder.community.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CommunityApplication">
+    <configuration name="WkTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.community.WkTests" />
+      <module name="community" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nowcoder.community.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuartzTests.testDeleteJob" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="community" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nowcoder.community.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nowcoder.community" />
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.community.QuartzTests" />
+      <option name="METHOD_NAME" value="testDeleteJob" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolTests.testThreadPoolTaskExecutorSimple" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="community" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nowcoder.community.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nowcoder.community" />
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.community.ThreadPoolTests" />
+      <option name="METHOD_NAME" value="testThreadPoolTaskExecutorSimple" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolTests.testThreadPoolTaskScheduler" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="community" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nowcoder.community.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nowcoder.community" />
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.community.ThreadPoolTests" />
+      <option name="METHOD_NAME" value="testThreadPoolTaskScheduler" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolTests.testThreadPoolTaskSchedulerSimple" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="community" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nowcoder.community.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nowcoder.community" />
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.community.ThreadPoolTests" />
+      <option name="METHOD_NAME" value="testThreadPoolTaskSchedulerSimple" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommunityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="community" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nowcoder.community.CommunityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WkTests" />
+        <item itemvalue="JUnit.QuartzTests.testDeleteJob" />
+        <item itemvalue="JUnit.ThreadPoolTests.testThreadPoolTaskSchedulerSimple" />
+        <item itemvalue="JUnit.ThreadPoolTests.testThreadPoolTaskExecutorSimple" />
+        <item itemvalue="JUnit.ThreadPoolTests.testThreadPoolTaskScheduler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac6a2196-7ba9-4c21-8ac0-13d0ef546dab" name="Default Changelist" comment="" />
+      <created>1688478588262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688478588262</updated>
+      <workItem from="1688478589453" duration="1104000" />
+      <workItem from="1688479713539" duration="282000" />
+      <workItem from="1688480399514" duration="341000" />
+      <workItem from="1688480754310" duration="24940000" />
+      <workItem from="1688903566298" duration="16862000" />
+      <workItem from="1688927190075" duration="6147000" />
+      <workItem from="1688933408121" duration="804000" />
+      <workItem from="1688934231985" duration="586000" />
+      <workItem from="1688934845147" duration="468000" />
+      <workItem from="1688957260607" duration="66000" />
+      <workItem from="1688957336933" duration="78000" />
+      <workItem from="1688957425425" duration="27581000" />
+      <workItem from="1689098306558" duration="8648000" />
+      <workItem from="1689152333506" duration="29814000" />
+      <workItem from="1689267482002" duration="4039000" />
+      <workItem from="1689273831796" duration="720000" />
+      <workItem from="1689299072567" duration="11264000" />
+      <workItem from="1689410316001" duration="10754000" />
+      <workItem from="1689472099657" duration="11070000" />
+      <workItem from="1689506726741" duration="8774000" />
+      <workItem from="1689523059994" duration="11159000" />
+      <workItem from="1689566797334" duration="32969000" />
+      <workItem from="1689680343981" duration="9387000" />
+      <workItem from="1689691158457" duration="23609000" />
+      <workItem from="1689771249853" duration="11342000" />
+      <workItem from="1689839956552" duration="19303000" />
+      <workItem from="1689869342594" duration="23870000" />
+      <workItem from="1690012185362" duration="7395000" />
+      <workItem from="1690021913865" duration="604000" />
+      <workItem from="1690024667451" duration="32642000" />
+      <workItem from="1690218069543" duration="125517000" />
+      <workItem from="1690983932613" duration="2512000" />
+      <workItem from="1690987841192" duration="35198000" />
+      <workItem from="1691334225270" duration="1066000" />
+    </task>
+    <task id="LOCAL-00001" summary="nowcoder">
+      <created>1689097734367</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689097734367</updated>
+    </task>
+    <task id="LOCAL-00002" summary="nowcoder">
+      <created>1691334502738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691334502738</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nowcoder" />
+    <option name="LAST_COMMIT_MESSAGE" value="nowcoder" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="((javax.servlet.http.Cookie[])((Request)((RequestFacade)request).request).cookies)[0]" custom="org.apache.catalina.connector.RequestFacade,org.apache.catalina.connector.Request,javax.servlet.http.Cookie[]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
